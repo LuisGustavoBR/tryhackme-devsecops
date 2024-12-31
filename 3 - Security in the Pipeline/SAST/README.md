@@ -122,7 +122,7 @@ Re-running Psalm reported all expected SQL injection instances.
 
 ## Topic 5 - SAST Integration in Development Cycle
 
-<p align="center"><img src="01.png" width= "500"></p>
+<p align="center"><img src="01.png" width= "1000"></p>
 
 ### CI/CD Integration:
 - SAST tools run during pull requests or merges to detect vulnerabilities.
